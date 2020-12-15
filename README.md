@@ -23,3 +23,4 @@ Using evolutionary multiobjective optimization algorithms to evolve lacing patte
 [![Impossile objects](impossible_object.gif)](https://github.com/Matsemann/impossible-objects)
 [![Boids](boids.gif)](https://github.com/Matsemann/boids-workshop)
 [![EA](ea.gif)](https://github.com/Matsemann/walkingea)
+[![Seam carving](seamcarve.gif)](https://github.com/Matsemann/image-workshop)
