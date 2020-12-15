@@ -16,4 +16,4 @@ Using evolutionary multiobjective optimization algorithms to evolve lacing patte
 **Other fun stuff:**  
 * [Algorithm-problems](https://github.com/Matsemann/algorithm-problems): My solutions to various problems / competitions (Kattis, Advent of Code)
 * [Declaraoids](https://github.com/Matsemann/Declaraoids) 70 ⭐: 1. april joke, where I used javascript ES6 proxies to make self-implementing code
-* [Oculus FPV](https://github.com/Matsemann/Declaraoids) > 450 ⭐: Old project where drone+oculus was combined
+* [Oculus FPV](https://github.com/Matsemann/oculus-fpv) > 450 ⭐: Old project where drone+oculus was combined
