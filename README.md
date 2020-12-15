@@ -1,10 +1,10 @@
 
 Welcome to my corner of GitHub. I mostly spend my time on here making fun little projects or workshops where I explore some area, often related to algorithms. Some things to check out:
 
-#### [Impossible objects](https://github.com/Matsemann/impossible-objects) > 250 ⭐
+[**Impossible objects**](https://github.com/Matsemann/impossible-objects) > 250 ⭐  
 Using math to make optical illusions, I have showcased these on Deichmanske/Oslo Skaperfestival and various other occasions. 
 
-#### [Master thesis](https://github.com/Matsemann/eamaster)
+[**Master thesis**](https://github.com/Matsemann/eamaster)  
 Using evolutionary multiobjective optimization algorithms to evolve lacing patterns
 
 #### Some workshops I've made:
