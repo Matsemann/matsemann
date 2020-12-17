@@ -7,7 +7,7 @@ Using math to make optical illusions, I have showcased these on Deichmanske/Oslo
 [**Master thesis**](https://github.com/Matsemann/eamaster)  
 Using evolutionary multiobjective optimization algorithms to evolve lacing patterns
 
-**Some workshops I've made:**  
+**Some workshops I've made for others to play with:**  
 * [Boids workshp](https://github.com/Matsemann/boids-workshop): Program your own boid
 * [Image workshop](https://github.com/Matsemann/image-workshop): Implement various image algorithms, most notably the cool seam carving algorithm
 * [Max flow workshop](https://github.com/Matsemann/maxflow-workshop): Implement it and then use it to solve various problems
